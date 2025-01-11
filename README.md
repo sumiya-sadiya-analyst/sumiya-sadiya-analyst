@@ -7,7 +7,7 @@
 
 Hello! I'm Sumiya Sadiya, I am particularly interested in roles that involve business analysis, business strategy, and data-driven decision-making.
 
-Skills: Ms Office / MySQL / Power BI/ Python 
+Skills: Ms Excel | MySQL | Power BI | Python 
 
 - 🔭 I’m currently working on this page. 
 
