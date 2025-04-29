@@ -9,8 +9,6 @@ I am particularly interested in roles that involve business analysis, business s
 Skills: MS Excel | MySQL | Power BI | Python | MS Word | MS Power Point
 
 - 🌱 I’m currently learning Xero, QuickBooks 
-- 😄 Pronouns: She / her 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sumiya-sadiya-analyst)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sumiya-sadiya-analyst/)  
 
