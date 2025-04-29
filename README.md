@@ -13,5 +13,5 @@ Skills: Ms Excel | MySQL | Power BI | Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumiya-sadiya-analyst)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sumiya-sadiya-analyst/)  
   
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sumiya-sadiya-analyst)  
+
 
