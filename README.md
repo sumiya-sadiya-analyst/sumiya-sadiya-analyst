@@ -12,14 +12,6 @@ Skills: Ms Excel | MySQL | Power BI | Python
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumiya-sadiya-analyst)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sumiya-sadiya-analyst/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumiya-sadiya-analyst)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumiya-sadiya-analyst&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sumiya-sadiya-analyst/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/sumiya-sadiya-analyst)  
-
+  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sumiya-sadiya-analyst)  
 
